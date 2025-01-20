@@ -24,7 +24,14 @@
     <body>
         <div id='text-entry'></div>
         <p>WPM: <span id="wpm"></span></p>
+        <p>WPM (adj): <span id="adjusted-wpm"></span></p>
+        <p>Accuracy: <span id="acc"></span> %</p>
         <p>elapsed: <span id="elapsed"></span></p>
+        <select id='word-algo'>
+            <option value='rndWords'>Random Words</option>
+            <option value='buffalo'>Buffalo</option>
+            <option selected value='quickBrownFox'>The quick brown fox</option>
+        </select>
         <script src='./index.js'></script>
     </body>
 </html>
