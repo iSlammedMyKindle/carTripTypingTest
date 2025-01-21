@@ -31,7 +31,7 @@
      inkscape:cx="206.77994"
      inkscape:cy="244.79452"
      inkscape:window-width="2560"
-     inkscape:window-height="1368"
+     inkscape:window-height="1384"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -256,17 +256,17 @@
        transform="rotate(30,-12.462674,104.22498)" />
     <text
        xml:space="preserve"
-       style="font-weight:bold;font-size:15.2362px;font-family:Purisa;-inkscape-font-specification:'Purisa Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#757575;fill-opacity:1;stroke:none;stroke-width:2.07767;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1"
+       style="font-weight:bold;font-size:15.2362px;font-family:Purisa;-inkscape-font-specification:'Purisa Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#6c6c6c;fill-opacity:1;stroke:none;stroke-width:2.07767;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1"
        x="65.030685"
        y="21.531101"
        id="text30"><tspan
          sodipodi:role="line"
          id="tspan30"
-         style="font-size:15.2362px;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:2.07767"
+         style="font-size:15.2362px;text-align:center;text-anchor:middle;fill:#6c6c6c;fill-opacity:1;stroke-width:2.07767"
          x="65.030685"
          y="21.531101">CarTrip</tspan><tspan
          sodipodi:role="line"
-         style="font-size:15.2362px;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:2.07767"
+         style="font-size:15.2362px;text-align:center;text-anchor:middle;fill:#6c6c6c;fill-opacity:1;stroke-width:2.07767"
          x="65.030685"
          y="40.576351"
          id="tspan31">Typing</tspan></text>
